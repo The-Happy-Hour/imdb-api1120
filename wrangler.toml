@@ -1,0 +1,4 @@
+name = "imdb-api1120"
+
+workers_dev = true
+compatibility_date = "2023-02-28"
